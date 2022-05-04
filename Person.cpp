@@ -1,9 +1,9 @@
 /*********************************************************************
  ** Author: Jordan Hamilton
  ** Date: 02/20/2018
- ** Description: This function takes an array of integers and an
- ** integer that specifies the size of the array, then sorts the array
- ** and returns the median value of the array as a double.
+ ** Description: This implements a class that represents a person.
+ ** The data members are the person's name and age. Getter methods
+ ** return the person's name and age.
  *********************************************************************/
 
 #include "Person.hpp"
